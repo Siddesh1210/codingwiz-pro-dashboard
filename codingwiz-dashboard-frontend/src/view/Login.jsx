@@ -81,7 +81,7 @@ function Login() {
                         (
                         <div className="w-[90%] bg-white my-3 p-5 rounded-xl flex flex-col justify-center items-center">
                             <h3 className='text-2xl font-bold my-3'>Sign in to your account</h3>
-                            <p className='text-gray-500 text-md my-3 tracking-wide'>Codingwiz is available on Ethereum, Polygon, XDC-Network, <br></br>BSC and Sepolia</p>
+                            <p className='text-gray-500 text-md my-3 tracking-wide'>Codingwiz is available on your fingertip, <br></br>just login and utilise.</p>
                             <button onClick={handlePage} className='w-[90%] bg-primary py-2 rounded-md text-white text-center cursor-pointer flex items-center justify-center gap-3 my-3 text-md border-primary'><i className="bi bi-envelope"></i> Sign in with your Email</button>
                         </div>) : 
                             <div className="w-[90%] bg-white my-3 p-5 rounded-xl flex flex-col justify-center items-center">
